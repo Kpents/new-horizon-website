@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Illustrative New Horizon school concept"><defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d422b"/><stop offset="1" stop-color="#237a46"/></linearGradient>
+<linearGradient id="cream" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ecf6d7"/><stop offset="1" stop-color="#d3eac3"/></linearGradient>
+<linearGradient id="yellow" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#ffdf31"/><stop offset="1" stop-color="#fff69b"/></linearGradient>
+<pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#fff" opacity=".07" stroke-width="1"/></pattern>
+<filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="25" flood-color="#022515" flood-opacity=".22"/></filter>
+</defs><rect width="1200" height="800" fill="#155b37"/><rect width="1200" height="800" fill="url(#grid)"/>
+<circle cx="945" cy="250" r="280" fill="#fae447"/><path d="M0 650Q430 450 760 660T1260 600v220H0Z" fill="#0c442e"/>
+<g transform="translate(380 155)" filter="url(#shadow)"><rect width="630" height="430" rx="25" fill="#f4f6d9"/><rect x="48" y="45" width="534" height="238" rx="9" fill="#4d9a67"/><path d="M100 205l90-90 89 100 118-120 93 91" fill="none" stroke="#eafbd3" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><rect x="180" y="305" width="260" height="25" rx="8" fill="#d0b07a"/><path d="M212 329v79m202-79v79" stroke="#ae8b52" stroke-width="19"/></g>
+<circle cx="410" cy="515" r="45" fill="#b76f4d"/><path d="M355 568q54-31 113 0l20 141H334Z" fill="#ffcc35"/><path d="M315 650q95 24 165 0" fill="none" stroke="#f7efe6" stroke-width="10"/>
+<path d="M240 157h110M295 103v108" stroke="#f5e871" stroke-width="12" stroke-linecap="round"/></svg>
